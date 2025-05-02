@@ -4,7 +4,7 @@
     <xacro:property name="RGBD_length"             value="0.01"/>
     <xacro:property name="RGBD_width"              value="0.09"/>
     <xacro:property name="RGBD_height"             value="0.03"/>
-    <xacro:property name="RGBD_offset_x"           value="0.318"/>
+    <xacro:property name="RGBD_offset_x"           value="0.210"/>
     <xacro:property name="RGBD_offset_z"           value="0.063"/>
 
     <!-- RGB_Depth camera -->

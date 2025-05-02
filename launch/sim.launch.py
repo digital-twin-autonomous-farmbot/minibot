@@ -66,7 +66,7 @@ def generate_launch_description():
     world_file_path = os.path.join(
         package_dir, 
         'worlds', 
-        'playground.sdf'
+        'empty.sdf'
     )
 
     rviz_config_file = os.path.join(
